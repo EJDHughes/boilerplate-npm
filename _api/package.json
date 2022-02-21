@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Edwin Hughes",
+	"description": "A project to test the url link again",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
